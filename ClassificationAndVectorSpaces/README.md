@@ -4,7 +4,7 @@ My solutions to the assignments in Course 1 of the Natural Language Processing S
 
 
 
-## About this Course
+## About This Course
 
 In Course 1 of the Natural Language Processing Specialization, you will:
 
