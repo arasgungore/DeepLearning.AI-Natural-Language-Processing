@@ -10,7 +10,7 @@ My solutions to the assignments in the Natural Language Processing Specializatio
 
 
 
-## About this Specialization
+## About This Specialization
 
 Natural Language Processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence that uses algorithms to interpret and manipulate human language.
 
