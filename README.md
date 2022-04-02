@@ -12,3 +12,11 @@ By the end of this Specialization, you will be ready to design NLP applications 
 
 This Specialization is designed and taught by two experts in NLP, machine learning, and deep learning. [Younes Bensouda Mourri](https://www.linkedin.com/in/younes-bensouda-mourri-8749b9a9/) is an Instructor of AI at Stanford University who also helped build the [Deep Learning Specialization](https://bit.ly/3fexxkV). [Łukasz Kaiser](https://www.linkedin.com/in/lukaszkaiser/) is a Staff Research Scientist at Google Brain and the co-author of Tensorflow, the Tensor2Tensor and Trax libraries, and the Transformer paper.
 
+
+
+## Author
+
+👤 **Aras Güngöre**
+
+* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
+* GitHub: [@arasgungore](https://github.com/arasgungore)
