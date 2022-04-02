@@ -2,6 +2,10 @@
 
 My solutions to the assignments of the Natural Language Processing (NLP) specialization on Coursera offered by DeepLearning.AI.
 
+## Courses
+
+[Course 1: Natural Language Processing with Classification and Vector Spaces]()
+
 
 
 ## About this Specialization
