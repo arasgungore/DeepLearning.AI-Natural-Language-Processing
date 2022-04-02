@@ -1,6 +1,6 @@
 # Course 1: Natural Language Processing with Classification and Vector Spaces
 
-My solutions to the assignments in Course 1 of the Natural Language Processing Specialization on Coursera.
+My solutions to the assignments in Course 1 of the Natural Language Processing Specialization on Coursera offered by DeepLearning.AI.
 
 
 
