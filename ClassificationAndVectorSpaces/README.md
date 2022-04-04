@@ -4,6 +4,18 @@ My solutions to the assignments in Course 1 of the Natural Language Processing S
 
 
 
+## Overview
+
+[Week 1: Sentiment Analysis with Logistic Regression](LogisticRegression)
+
+[Week 2: Naive Bayes](NaiveBayes)
+
+[Week 3: Vector Space Models](VectorSpaceModels)
+
+[Week 4: Machine Translation and Document Search](WordTranslation)
+
+
+
 ## About This Course
 
 In Course 1 of the Natural Language Processing Specialization, you will:
