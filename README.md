@@ -1,4 +1,4 @@
-# coursera-NLP
+# DeepLearning.AI-Natural-Language-Processing
 
 My solutions to the assignments in the Natural Language Processing Specialization offered by DeepLearning.AI on Coursera.
 
